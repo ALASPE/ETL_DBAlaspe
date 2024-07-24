@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL_DBAlaspe", "ETL_DBAlaspe\ETL_DBAlaspe.dtproj", "{18B85BC2-3CF6-491A-9D88-4B3C8AB2B7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B85BC2-3CF6-491A-9D88-4B3C8AB2B7AD}.Development|Default.ActiveCfg = Development
+		{18B85BC2-3CF6-491A-9D88-4B3C8AB2B7AD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB29965-D37B-4E13-87B7-DCB2F1B44E3E}
+	EndGlobalSection
+EndGlobal
